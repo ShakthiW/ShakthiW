@@ -17,8 +17,8 @@
 # 📊 GitHub Stats:
 
 <p align="center">
-    <a href="https://leetcode.com/drknzz/"><img width="48%" src="https://github-readme-stats.vercel.app/api?username=ShakthiW&theme=radical&hide_border=false&include_all_commits=true&count_private=true"></a>
-    <a href="https://github.com/drknzz"><img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=ShakthiW&theme=radical&hide_border=false"></a>
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ShakthiW&theme=radical&hide_border=false&include_all_commits=true&count_private=true">
+    <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=ShakthiW&theme=radical&hide_border=false">
 </p>
 
 <br>
@@ -34,5 +34,16 @@
 
 <br>
 
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=ShakthiW&theme=radical&no-frame=false&no-bg=true&margin-w=3">
+</p>
+
+<br>
+
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/shakthiraveen) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_shakthi_raveen_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shakthi-warnakulasuriya-) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@shakthiraveen2002) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@openworld7444) 
+
+<br> 
